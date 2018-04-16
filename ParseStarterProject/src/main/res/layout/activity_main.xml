@@ -1,0 +1,80 @@
+<!--
+  ~ Copyright (c) 2015-present, Parse, LLC.
+  ~ All rights reserved.
+  ~
+  ~ This source code is licensed under the BSD-style license found in the
+  ~ LICENSE file in the root directory of this source tree. An additional grant
+  ~ of patent rights can be found in the PATENTS file in the same directory.
+  -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/relativeLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/logoImageView"
+        android:layout_width="110dp"
+        android:layout_height="144dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="134dp"
+        app:srcCompat="@drawable/medium" />
+
+    <EditText
+        android:id="@+id/usernameEditText"
+        android:layout_width="380dp"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:ems="10"
+        android:hint="Username"
+        android:inputType="textPersonName"
+        android:textColor="@color/common_google_signin_btn_text_dark_default"
+        android:textColorHint="@color/cast_expanded_controller_progress_text_color" />
+
+    <EditText
+        android:id="@+id/passwordEditText"
+        android:layout_width="380dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="239dp"
+        android:ems="10"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:textColor="@color/cast_expanded_controller_progress_text_color"
+        android:textColorHint="@color/cast_expanded_controller_progress_text_color" />
+
+    <Button
+        android:id="@+id/signupLoginButton"
+        android:layout_width="379dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="171dp"
+        android:background="@android:color/holo_green_dark"
+        android:onClick="signUpLogin"
+        android:text="Sign Up"
+        android:textColor="@color/cast_expanded_controller_progress_text_color" />
+
+    <TextView
+        android:id="@+id/swapTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="137dp"
+        android:clickable="true"
+        android:onClick="swapLoginMode"
+        android:text="or Log In"
+        android:textColor="@color/cast_expanded_controller_progress_text_color"
+        android:textSize="14sp" />
+
+</RelativeLayout>

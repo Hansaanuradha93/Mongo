@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h320dp-v13/values-h320dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/hansaanuradhawickramanayake/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/ab60c42ff407f9ea397e2821bd5b76ef/res/values-h320dp-v13/values-h320dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        }
+    ]
+}
