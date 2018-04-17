@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-34:12
-INJECTED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-34:12
-INJECTED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-34:12
-INJECTED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-34:12
+ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-36:12
+INJECTED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-36:12
+INJECTED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-36:12
+INJECTED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-36:12
 MERGED from [com.google.android.gms:play-services:9.4.0] /Users/hansaanuradhawickramanayake/.gradle/caches/transforms-1/files-1.1/play-services-9.4.0.aar/027c493bb33dcac53e28aab537633a64/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/hansaanuradhawickramanayake/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/2c97062bf7ba0b7fed13c225d04fb43b/AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.android.gms:play-services-cast:9.4.0] /Users/hansaanuradhawickramanayake/.gradle/caches/transforms-1/files-1.1/play-services-cast-9.4.0.aar/9d8ca6583b88af44392670f6d3f8ecc3/AndroidManifest.xml:16:1-20:12
@@ -60,25 +60,25 @@ MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /Users/hansaanura
 MERGED from [com.google.android.gms:play-services-basement:9.4.0] /Users/hansaanuradhawickramanayake/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/15be5545bf3efd80d189077e430610c6/AndroidManifest.xml:16:1-26:12
 MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/hansaanuradhawickramanayake/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/140fd0f57ef351a5f21ad905b5226369/AndroidManifest.xml:2:1-9:12
 MERGED from [com.android.support:support-v4:23.4.0] /Users/hansaanuradhawickramanayake/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/e8cba2682ec22ee245a82e947de3e1bf/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-34:12
-INJECTED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-34:12
-INJECTED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-34:12
+INJECTED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-36:12
+INJECTED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-36:12
+INJECTED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-36:12
 	package
 		ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:10:5-32
 		INJECTED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
 		INJECTED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
-		ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-34:12
+		ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-36:12
 		INJECTED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
-		ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-34:12
+		ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:1-36:12
 		INJECTED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:9:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:11:5-67
+ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:12:5-67
 MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/hansaanuradhawickramanayake/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/0a6b58c1ef937c90e6878106210da665/AndroidManifest.xml:20:5-66
 MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/hansaanuradhawickramanayake/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/0a6b58c1ef937c90e6878106210da665/AndroidManifest.xml:20:5-66
 MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/hansaanuradhawickramanayake/.gradle/caches/transforms-1/files-1.1/play-services-analytics-9.4.0.aar/cdbaf2fd22b0faf0c8bf60f97ec09fe1/AndroidManifest.xml:21:5-67
@@ -104,9 +104,9 @@ MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/hansaanur
 MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/hansaanuradhawickramanayake/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/3547624162de5165cce4c8d3e376c8f1/AndroidManifest.xml:21:5-67
 MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/hansaanuradhawickramanayake/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/3547624162de5165cce4c8d3e376c8f1/AndroidManifest.xml:21:5-67
 	android:name
-		ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:11:22-64
+		ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:12:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:12:5-79
+ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:13:5-79
 MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/hansaanuradhawickramanayake/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/0a6b58c1ef937c90e6878106210da665/AndroidManifest.xml:21:5-78
 MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /Users/hansaanuradhawickramanayake/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-9.4.0.aar/0a6b58c1ef937c90e6878106210da665/AndroidManifest.xml:21:5-78
 MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /Users/hansaanuradhawickramanayake/.gradle/caches/transforms-1/files-1.1/play-services-analytics-9.4.0.aar/cdbaf2fd22b0faf0c8bf60f97ec09fe1/AndroidManifest.xml:22:5-79
@@ -126,17 +126,17 @@ MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /Users/hansaanur
 MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/hansaanuradhawickramanayake/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/3547624162de5165cce4c8d3e376c8f1/AndroidManifest.xml:20:5-79
 MERGED from [com.google.firebase:firebase-iid:9.4.0] /Users/hansaanuradhawickramanayake/.gradle/caches/transforms-1/files-1.1/firebase-iid-9.4.0.aar/3547624162de5165cce4c8d3e376c8f1/AndroidManifest.xml:20:5-79
 	android:name
-		ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:12:22-76
+		ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:13:22-76
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:13:5-80
+ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:14:5-80
 	android:name
-		ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:13:22-77
+		ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:14:22-77
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:14:5-79
+ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:15:5-79
 	android:name
-		ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:14:22-76
+		ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:15:22-76
 application
-ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:16:5-32:19
+ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:17:5-34:19
 MERGED from [com.google.android.gms:play-services:9.4.0] /Users/hansaanuradhawickramanayake/.gradle/caches/transforms-1/files-1.1/play-services-9.4.0.aar/027c493bb33dcac53e28aab537633a64/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services:9.4.0] /Users/hansaanuradhawickramanayake/.gradle/caches/transforms-1/files-1.1/play-services-9.4.0.aar/027c493bb33dcac53e28aab537633a64/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] /Users/hansaanuradhawickramanayake/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/2c97062bf7ba0b7fed13c225d04fb43b/AndroidManifest.xml:5:5-9:19
@@ -230,35 +230,39 @@ MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/hansaanu
 MERGED from [com.android.support:support-v4:23.4.0] /Users/hansaanuradhawickramanayake/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/e8cba2682ec22ee245a82e947de3e1bf/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.4.0] /Users/hansaanuradhawickramanayake/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/e8cba2682ec22ee245a82e947de3e1bf/AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:20:9-41
+		ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:21:9-41
 	android:icon
-		ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:19:9-43
+		ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:20:9-43
 	android:allowBackup
-		ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:18:9-35
+		ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:19:9-35
 	android:theme
-		ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:21:9-40
+		ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:22:9-40
 	android:name
-		ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:17:9-43
+		ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:18:9-43
 activity#com.parse.starter.MainActivity
-ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:22:9-30:20
+ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:23:9-31:20
 	android:label
-		ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:24:13-45
+		ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:25:13-45
 	android:name
-		ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:23:13-41
+		ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:24:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:25:13-29:29
+ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:26:13-30:29
 action#android.intent.action.MAIN
-ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:26:17-69
+ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:27:17-69
 	android:name
-		ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:26:25-66
+		ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:27:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:28:17-77
+ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:29:17-77
 	android:name
-		ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:28:27-74
+		ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:29:27-74
 activity#com.parse.starter.UserListActivity
-ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:31:9-63
+ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:32:9-54
 	android:name
-		ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:31:19-51
+		ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:32:19-51
+activity#com.parse.starter.UserFeedActivity
+ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:33:9-63
+	android:name
+		ADDED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:33:19-51
 uses-sdk
 INJECTED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/hansaanuradhawickramanayake/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml

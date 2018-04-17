@@ -53,6 +53,8 @@ public class MainActivity extends AppCompatActivity implements View.OnKeyListene
     super.onCreate(savedInstanceState);
     setContentView(R.layout.activity_main);
 
+    setTitle("Mongo");
+
     usernameEditText = (EditText) findViewById(R.id.usernameEditText);
     passwordEditText = (EditText) findViewById(R.id.passwordEditText);
     swapTextView = (TextView) findViewById(R.id.swapTextView);
